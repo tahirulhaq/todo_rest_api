@@ -1,0 +1,12 @@
+https://blog.logrocket.com/django-rest-framework-create-api/
+
+install django_rest_framework
+
+manage py createapp 
+
+urls and serializers
+
+add apps to setttings
+views 
+import views
+
